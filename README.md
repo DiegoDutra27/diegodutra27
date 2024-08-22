@@ -1,4 +1,4 @@
-<h1 align="center">Olá eu sou Diego Dutra</h1>
+<h1 align="center">Olá, eu sou Diego Dutra</h1>
 <h3 align="center">Desenvolvedor web</h3>
 
 - Para mostrar algumas de minhas aptidões, tenho um projeto chamado [InternalProject](https://github.com/DiegoDutra27/InternalProject)
